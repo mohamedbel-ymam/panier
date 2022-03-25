@@ -1,0 +1,46 @@
+.counterp{
+    text-align: end;
+    top: 0%;
+}
+img{
+    display: block;
+}
+.product{
+    display: flex;
+    gap: 15px;
+    margin: 20px;
+}
+#commandValue{
+    font-size: 1.7em;
+    color: rgb(54, 148, 54);
+    margin-left:  20px
+    ;
+}
+.commandCounter{display: flex;
+    justify-content: center;
+    
+}
+.commande img{
+    display: block;
+;
+}
+h2{
+    color: red;
+    background-color: rgb(24, 17, 17);
+}
+.container{
+    width: 90%;
+    background-color: black;
+    margin-top: 10%;
+}
+h4{
+    color: white;
+}
+span{
+    color:white;
+}
+#body{
+width:100%;
+background-image: url(./shopping-logo-design.-shop-template-vector.-png_98531.jpg);
+
+}
